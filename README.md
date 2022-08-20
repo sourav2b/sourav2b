@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, ReactJS and Resources of ML**
 
-- 📄 Know about my experiences: **https://drive.google.com/file/d/1hXGaleVTMj-VSk6RnPsDj1qUIy5LGvhr/view?usp=sharing**
+- 📄 Know about my experiences: **https://drive.google.com/file/d/1OQNzfANO1QDJ3Bx-eo9KVvW8v48OnXq2/view?usp=sharing**
 
 - 👯 I’m looking to **collaborate on Open Source Projects**
 
